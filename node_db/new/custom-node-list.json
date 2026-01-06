@@ -712,7 +712,7 @@
                 "https://github.com/K-O-N-B/ComfyUI-WorkflowManager-beta"
             ],
             "install_type": "git-clone",
-            "description": "A workflow management plugin that's even better than the official version. Try it!"
+            "description": "A workflow management plugin that's even better than the official version. Try it!!"
         }
     ]
 }
