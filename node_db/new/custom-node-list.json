@@ -703,6 +703,16 @@
             ],
             "install_type": "git-clone",
             "description": "ComfyUI Wrapper for TRELLIS.2 - Microsoft's image-to-3D generation model. (Description by CC)"
+        },
+        {
+            "author": "NZ Team",
+            "title": "ComfyUI-WorkflowManager-beta",
+            "reference": "https://github.com/K-O-N-B/ComfyUI-WorkflowManager-beta",
+            "files": [
+                "https://github.com/K-O-N-B/ComfyUI-WorkflowManager-beta"
+            ],
+            "install_type": "git-clone",
+            "description": "A workflow management plugin that's even better than the official version. Try it!"
         }
     ]
 }
